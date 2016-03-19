@@ -1,2 +1,3 @@
-# jekylldoctheme-separate-outputs
-Archiving the previous version of the Jekyll documentation theme. This model contains separate outputs for each product.
+## Jekyll Documentation theme
+
+This is the readme page of the Jekyll documentation theme.
